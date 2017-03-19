@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BezierDemo</string>
+    <string name="quadTo">quadTo()</string>
+    <string name="cubicTo">cubicTo()</string>
+    <string name="title_activity_quad">QuadActivity</string>
+    <string name="title_activity_cubic">CubicActivity</string>
+</resources>
